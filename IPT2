@@ -1,2 +1,2 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.pnghttps://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Brasil: cinema em portuguêsBrasil: cinema em português",Cine Crime | Pluto TV BrasilCine Crime | Pluto TV Brasil | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
